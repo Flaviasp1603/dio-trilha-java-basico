@@ -8,14 +8,14 @@ public class ContaTerminal {
 
         System.out.println("Digite o número da conta ");
         int numConta = scanner.nextInt();
-        
+
         System.out.println("Digite o número da agência ");
         String agenciaBanco = scanner.next();
         
-        System.out.println("Digite seu nome completo ");
+        System.out.println("Digite seu nome ");
         String nomeCliente = scanner.next();
 
-        System.out.println("Digite seu nome completo ");
+        System.out.println("Digite seu sobrenome ");
         String sobrenomeCliente = scanner.next();
 
         System.out.println("Digite seu saldo ");
